@@ -18,4 +18,4 @@
   remove(where=this.id==id.edit image=image.default)
 
 // Modify and move stuff
-  modify(find="Renomear com PowerRename", position="after", where=this.prev.name=="Renomear")
+ modify(find='Renomear com PowerRename' pos='bottom')
